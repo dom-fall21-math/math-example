@@ -6,3 +6,8 @@ navbar:
       href: index.html
     - text: "RMarkdown"
       href: rmarkdown.html
+    - text: "Test"
+      href: test.html
+    - text: "HTML"
+      href: html.html
+      

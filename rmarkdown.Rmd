@@ -2,7 +2,10 @@
 title: "RMarkdown"
 author: "Jesus Ambriz"
 date: "10/22/2021"
-output: html_document
+output:
+  html_document:
+    theme: sandstone
+    highlight: tango
 ---
 
 ```{r setup, include=FALSE}
